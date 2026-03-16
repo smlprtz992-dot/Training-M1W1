@@ -1,8 +1,8 @@
 # Training-M1W1 
 
 # Gym Age Classification Program
-#HI
-# My name is samuel pertuz
+
+# Hello My name is samuel pertuz
 
 ## Description
 
